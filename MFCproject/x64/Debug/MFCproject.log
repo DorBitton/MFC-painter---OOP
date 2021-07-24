@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  EllipseF.cpp
+  Figure.cpp
+  LinedSquare.cpp
+  MagenDavid.cpp
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(21,17): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(21,34): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(29,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(30,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(34,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MagenDavid.cpp(35,29): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  MFCproject.cpp
+  MFCprojectDlg.cpp
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(323,17): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(323,34): warning C4244: '/=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(355,30): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(356,30): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(360,30): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\97254\Desktop\MFCproject\MFCprojectDlg.cpp(361,30): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  RectangleF.cpp
+  StraightLine.cpp
+  Generating Code...
+  MFCproject.vcxproj -> C:\Users\97254\Desktop\x64\Debug\MFCproject.exe
